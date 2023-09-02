@@ -2,7 +2,7 @@
 
 ## Install
 
-`npm install devtools-detector --save`
+`npm install devtools-detector-csp --save`
 
 ## Usage
 
